@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoge&label=Profile%20views&color=0e75b6&style=flat" alt="hoge" /> </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujiyamaorange&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fujiyamaorange&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fujiyamaorange&theme=github)
 
 
