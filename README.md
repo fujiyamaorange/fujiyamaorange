@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 ### Languages
-[![Language](https://skillicons.dev/icons?i=ts,js,rust,dart,c,cpp,html,css&theme=dark)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=ts,js,rust,dart,py,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 
 ### Tools/Frameworks
-[![Language](https://skillicons.dev/icons?i=nextjs,nodejs,cloudflare,flutter,babel,bash,bootstrap,cypress,docker,express,firebase,gcp,github,graphql,nuxtjs,py,react,tailwind,wasm,webpack,&theme=dark)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=github,gcp,firebase,cloudflare,graphql,docker,wasm,vercel,nextjs,react,tailwind,nuxtjs,nodejs,flutter,webpack,babel,bash,express,cypress&theme=dark)](https://skillicons.dev)
 
 https://github.com/tandpfun/skill-icons#readme
 
