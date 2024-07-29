@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=babel,bash,bootstrap,c,cpp,cloudflare,css,cypress,dart,docker,express,firebase,flutter,gcp,github,graphql,html,js,nextjs,nodejs,nuxtjs,py,react,rust,tailwind,ts,wasm,webpack,&theme=dark&perline=3)](https://skillicons.dev)
+### Languages
+[![Language](https://skillicons.dev/icons?i=ts,js,rust,dart,c,cpp,html,css&theme=dark)](https://skillicons.dev)
+
+### Tools/Frameworks
+[![Language](https://skillicons.dev/icons?i=nextjs,nodejs,cloudflare,flutter,babel,bash,bootstrap,cypress,docker,express,firebase,gcp,github,graphql,nuxtjs,py,react,tailwind,wasm,webpack,&theme=dark)](https://skillicons.dev)
+
+https://github.com/tandpfun/skill-icons#readme
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujiyamaorange&theme=github)
 
