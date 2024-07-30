@@ -7,7 +7,7 @@
 [![Language](https://skillicons.dev/icons?i=ts,js,rust,dart,py,c,cpp,html,css&theme=dark)](https://skillicons.dev)
 
 ### Tools/Frameworks
-[![Language](https://skillicons.dev/icons?i=github,gcp,firebase,cloudflare,graphql,docker,wasm,vercel,nextjs,react,tailwind,nuxtjs,nodejs,flutter,webpack,babel,bash,express,cypress&theme=dark)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=github,gcp,firebase,cloudflare,graphql,docker,wasm,vercel,nextjs,flutter,react,tailwind,nuxtjs,nodejs,webpack,babel,bash,express,cypress&theme=dark)](https://skillicons.dev)
 
 https://github.com/tandpfun/skill-icons#readme
 
